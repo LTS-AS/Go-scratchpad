@@ -1,0 +1,15 @@
+alarmBase:
+  status
+  text
+  time
+  ackTime
+  objectType
+  
+alarmInverter:
+  ??
+  
+alarmServodrive:
+  ??
+  
+alarmAnalog:
+  ??
